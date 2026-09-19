@@ -1,5 +1,7 @@
 # Bugsmirror Defender (libcachehandler.so) — RASP Environment Detection Analysis
 
+> **联系 / Contact (TG)**: `pidanfuzi` — 承接安卓逆向 / 加固分析 / 过检测 / 协议逆向相关需求
+
 ## 0. 概述
 
 - **目标库**：`libcachehandler.so` — 商业 RASP 产品 **Bugsmirror Defender**（Paytm 在用）
@@ -139,3 +141,8 @@ if ((sub_EA95C(1004) & 1) != 0 && check_android_keystore_integrity_trap(a1))
 ## 免责声明
 
 本文仅供安全研究与学习交流。请遵守当地法律法规，未经授权不得对他人系统进行测试。
+
+## 联系方式
+
+- **Telegram**: [`pidanfuzi`](https://t.me/pidanfuzi) — 承接安卓逆向 / 加固分析 / 过检测 / 协议逆向相关需求，可定制方案
+
